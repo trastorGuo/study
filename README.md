@@ -5,6 +5,7 @@
      - 有时间的话可以刷一遍红宝书（JavaScript高级程序设计 第四版），可以纸质书或者电子，电子推荐微信读书上看，体验不错又免费
      - js面试的内容主要都是那些点，比如作用域、闭包、原型链、继承、promise等，可以参考我关于[js的总结文章](https://github.com/trastorGuo/study/blob/master/Javascript.md)，或者[字节面试官发给我的资料](https://bitable.feishu.cn/appcnyvNaWKmawodmwQIlNWJuab?from=logout&table=tbluzRS9nbnoaL4U&view=vewJHSwJVd)
      - js会涉及到很多代码题，例如实现reduce、实现promise.all、深浅拷贝等等， 可以看我的[这篇总结](https://github.com/trastorGuo/study/blob/master/编程题.md)
+     - js考察的重点还包括ES6，可以参考[阮神的ES6入门教程](https://es6.ruanyifeng.com/#README)，建议通读一遍，不过和我前面写的会有一些重合，重合的地方一定多看看
    - css、html
      - css、html一般问的不是很多，但是基础还是要会，重点会在布局（特别是flex）、居中、盒子模型等内容上，可以参考我[这篇文章](https://github.com/trastorGuo/study/blob/master/CSS.md)
 2. 数据结构与算法题
